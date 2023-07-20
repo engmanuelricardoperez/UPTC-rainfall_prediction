@@ -2,6 +2,7 @@ Hi everyone!
 
 2!
 
+<<<<<<< HEAD
 TEST2 C1
 M-C1
 
@@ -11,3 +12,10 @@ TEST2 C3
 
 
 TEST3 C1
+=======
+M-C1
+
+M-C2
+
+M-C3
+>>>>>>> main
